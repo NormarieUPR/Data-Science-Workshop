@@ -30,8 +30,7 @@ st.code("df = pd.read_csv('students.csv')", language="python")
 df = pd.read_csv('students.csv')
 
 
-st.write("Is good practice to use a command such as head() to look at the first few rows to see" \
-" what your data set is about")
+st.write("A common first step in data analysis is using head() to display the first few rows and get a quick understanding of the dataset.")
 st.write("**Dataset Shape:** (row, columns)", df.shape)
 st.dataframe(df.head())
 st.space(size="small")
