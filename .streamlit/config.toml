@@ -1,0 +1,12 @@
+[theme]
+base = "light" 
+primaryColor="#ffc5a6"
+backgroundColor="#F0EEE6"
+secondaryBackgroundColor="#E3DACC"
+textColor="#3D3A2A" 
+linkColor = "#79ADDC" 
+linkUnderline = true 
+codeBackgroundColor = "#ecebe4" 
+chartCategoricalColors = ["#79ADDC"]
+dataframeHeaderBackgroundColor = "#fed4bd"
+dataframeBorderColor ="#3D3A2A" 

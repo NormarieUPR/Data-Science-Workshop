@@ -1,0 +1,51 @@
+student_id,name,age,gender,year_of_study,major,gpa,study_hours_per_week,attendance_rate,num_clubs,part_time_job,distance_from_campus_miles,sleep_hours_per_night,satisfaction_score,failed_courses,scholarship
+1,Emma Johnson,19,Female,1,Computer Science,3.82,22,95,2,No,3.2,7.5,8,0,Yes
+2,Liam Martinez,20,Male,2,Biology,2.95,14,78,1,Yes,12.1,6.0,6,1,No
+3,Olivia Chen,22,Female,3,Psychology,3.61,18,88,3,No,1.5,7.0,7,0,Yes
+4,Noah Williams,21,Male,2,Business,2.43,9,65,0,Yes,25.3,5.5,4,2,No
+5,Ava Thompson,20,Female,2,Mathematics,3.91,28,97,2,No,0.8,8.0,9,0,Yes
+6,Elijah Brown,23,Male,4,Engineering,3.44,20,84,1,Yes,7.6,6.5,7,0,No
+7,Sophia Davis,19,Female,1,English,2.78,11,72,2,No,4.3,7.0,5,1,No
+8,James Wilson,24,Male,4,Physics,3.55,25,91,0,No,9.1,6.0,8,0,Yes
+9,Isabella Moore,21,Female,3,Nursing,3.20,16,89,1,Yes,14.7,6.5,6,0,No
+10,William Anderson,22,Male,3,Computer Science,2.88,12,70,0,Yes,18.2,5.0,5,1,No
+11,Mia Jackson,20,Female,2,Art,3.10,13,80,4,No,2.9,7.5,7,0,No
+12,Benjamin Taylor,21,Male,3,Economics,3.73,21,93,2,No,5.5,7.0,8,0,Yes
+13,Charlotte Harris,19,Female,1,Biology,2.60,10,68,1,Yes,22.0,6.0,5,1,No
+14,Lucas Martin,23,Male,4,Political Science,3.35,17,85,3,No,3.8,7.5,7,0,No
+15,Amelia Garcia,20,Female,2,Computer Science,3.88,26,96,1,No,1.2,8.0,9,0,Yes
+16,Mason Lee,22,Male,3,Chemistry,3.02,15,79,0,Yes,11.4,5.5,6,1,No
+17,Harper Perez,21,Female,3,Sociology,2.55,8,60,2,Yes,30.1,5.0,4,2,No
+18,Ethan White,19,Male,1,Engineering,3.45,19,87,1,No,6.7,7.0,7,0,No
+19,Evelyn Hall,24,Female,4,Mathematics,3.95,30,99,3,No,0.5,8.5,10,0,Yes
+20,Alexander Young,20,Male,2,Business,2.72,10,71,1,Yes,16.3,6.0,5,1,No
+21,Abigail Allen,22,Female,3,Nursing,3.30,16,88,1,No,8.4,7.0,7,0,No
+22,Daniel King,21,Male,2,Computer Science,3.65,23,90,2,No,4.0,6.5,8,0,Yes
+23,Emily Wright,23,Female,4,Psychology,2.98,12,75,3,Yes,13.5,6.0,6,0,No
+24,Matthew Scott,19,Male,1,Physics,3.15,17,82,0,No,7.2,7.5,6,0,No
+25,Elizabeth Green,20,Female,2,English,2.40,7,58,1,Yes,27.8,5.0,3,2,No
+26,Aiden Baker,22,Male,3,Economics,3.50,20,86,2,No,5.1,7.0,7,0,Yes
+27,Sofia Adams,21,Female,2,Art,3.05,14,77,5,No,2.2,7.5,7,0,No
+28,Jackson Nelson,24,Male,4,Business,2.85,11,69,0,Yes,19.6,5.5,5,1,No
+29,Scarlett Carter,19,Female,1,Biology,3.70,22,94,2,No,3.6,7.5,8,0,Yes
+30,Sebastian Mitchell,23,Male,4,Engineering,3.22,18,83,1,Yes,10.3,6.0,6,0,No
+31,Victoria Perez,20,Female,2,Computer Science,3.78,24,92,1,No,2.7,7.5,8,0,Yes
+32,Henry Roberts,21,Male,3,Chemistry,2.65,9,64,0,Yes,24.5,5.0,4,2,No
+33,Luna Turner,22,Female,3,Mathematics,3.88,27,96,2,No,1.0,8.0,9,0,Yes
+34,Jack Phillips,20,Male,1,Political Science,2.90,13,74,2,Yes,15.0,6.0,5,1,No
+35,Chloe Campbell,23,Female,4,Nursing,3.40,17,87,1,No,7.8,7.0,8,0,No
+36,Owen Parker,19,Male,1,Engineering,3.10,16,81,1,No,6.3,7.0,6,0,No
+37,Penelope Evans,22,Female,3,Sociology,2.50,8,59,3,Yes,28.9,5.0,4,2,No
+38,Wyatt Edwards,24,Male,4,Computer Science,3.60,22,89,0,No,4.5,6.5,7,0,Yes
+39,Layla Collins,21,Female,2,Psychology,3.25,15,83,2,Yes,12.8,6.5,6,0,No
+40,Gabriel Stewart,20,Male,2,Business,2.75,11,70,1,Yes,17.4,5.5,5,1,No
+41,Riley Sanchez,19,Female,1,Art,3.00,13,78,4,No,3.1,7.5,7,0,No
+42,Julian Morris,23,Male,4,Mathematics,3.80,26,95,1,No,1.8,7.5,9,0,Yes
+43,Zoey Rogers,22,Female,3,Biology,3.15,15,80,2,Yes,11.2,6.0,6,0,No
+44,Levi Reed,21,Male,2,Economics,3.45,19,86,0,No,5.8,7.0,7,0,No
+45,Nora Cook,20,Female,2,English,2.65,9,65,1,Yes,23.6,5.5,4,1,No
+46,Isaac Morgan,24,Male,4,Physics,3.55,23,90,0,No,8.9,6.5,8,0,Yes
+47,Lily Bell,19,Female,1,Computer Science,3.72,21,93,1,No,2.4,7.5,8,0,Yes
+48,Asher Murphy,22,Male,3,Political Science,2.80,12,72,2,Yes,16.7,5.5,5,1,No
+49,Eleanor Bailey,21,Female,3,Chemistry,3.35,18,85,1,No,7.0,7.0,7,0,No
+50,Christopher Rivera,20,Male,2,Engineering,3.05,16,79,1,Yes,13.9,6.0,6,1,No
